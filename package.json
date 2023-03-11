@@ -1,0 +1,24 @@
+{
+  "name": "polydeuces",
+  "version": "1.0.0",
+  "description": "share creative videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epritchard13/polydeuces.git"
+  },
+  "author": "Eddie Pritchard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epritchard13/polydeuces/issues"
+  },
+  "homepage": "https://github.com/epritchard13/polydeuces#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "react": "^18.2.0"
+  }
+}
